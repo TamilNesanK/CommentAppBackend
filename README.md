@@ -14,6 +14,7 @@ clone project from https://github.com/TamilNesanK/CommentAppBackend/tree/master 
 
 4.After importing run java class CommentAppApplication.java under com.comment.app
  
+5.please add CORS origin plugin In Firefox
  ----For Zip file---
  
  1.extract zip file
@@ -21,4 +22,6 @@ clone project from https://github.com/TamilNesanK/CommentAppBackend/tree/master 
  2.import project in eclispe or STS IDE
  
  3.After importing run java class CommentAppApplication.java under com.comment.app
+ 
+ 4.please add CORS origin plugin In Firefox
  
